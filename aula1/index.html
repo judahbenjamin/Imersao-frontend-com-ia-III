@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #141414;
+            color: white;
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 40px;
+            text-align: center;
+        }
+
+        .profiles {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .profile {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .profile:hover {
+            transform: scale(1.05);
+        }
+
+        .profile img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 15px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .profile p {
+            font-size: 16px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Quem está assistindo?</h1>
+        <div class="profiles">
+            <div class="profile">
+                <img src="/assets/perfil-1.jpeg" alt="Perfil 1">
+                <p>Perfil 1</p>
+            </div>
+            <div class="profile">
+                <img src="/assets/perfil-2.jpeg" alt="Perfil 2">
+                <p>Perfil 2</p>
+            </div>
+            <div class="profile">
+                <img src="/assets/perfil-3.jpeg" alt="Perfil 3">
+                <p>Perfil 3</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
