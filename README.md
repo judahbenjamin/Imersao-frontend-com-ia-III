@@ -44,3 +44,22 @@ Para aprofundar um pouco os conhecimentos, estilizei essa pequena estrutura HTML
 
 ![resultado](https://github.com/user-attachments/assets/90169ae2-1c53-43e4-b5a2-e41d4eff3a0e)
 
+# Aula 2 - Deixe sua página com visual profissional
+
+Nesta aula, aprofundamos nossos conhecimentos em HTML e CSS, focando na importância da semântica e acessibilidade no desenvolvimento web. Aprendemos a estruturar uma página de forma mais organizada, utilizando listas e tags semânticas, além de aplicar estilos com CSS para melhorar a apresentação visual. Exploramos como a inteligência artificial pode auxiliar na geração de código e na estilização, e discutimos a importância de descrever imagens com o atributo "alt" para acessibilidade. Ao final, realizamos ajustes no layout, tornando-o mais atraente e funcional.
+
+<br>
+
+- **HTML** -> Uma linguagem de marcação para estruturar páginas da web
+- **CSS** -> Estilizar a apresentação visual
+- **Semântica** -> Usar tags que descrevem o conteúdo de forma clara e significativa
+- Atributo **Alt** -> Ele fornece uma descrição da imagem para acessibilidade
+- **Hover** -> Aplica um estilo quando o mouse passa sobre um elemento
+- **Classe** -> É um identificador que permite aplicar estilos a vários elementos.
+- É importante o uso da **IA** para ajudar a automatizar tarefas e sugerir melhorias no código.
+
+<br>
+
+![resultado_aula2](https://github.com/user-attachments/assets/51c994e5-d153-4295-b6bf-350c53b60bac)
+
+
