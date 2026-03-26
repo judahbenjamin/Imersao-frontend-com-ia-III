@@ -62,4 +62,48 @@ Nesta aula, aprofundamos nossos conhecimentos em HTML e CSS, focando na importâ
 
 ![resultado_aula2](https://github.com/user-attachments/assets/51c994e5-d153-4295-b6bf-350c53b60bac)
 
+<br>
 
+# Aula 3 - Faça seu site funcionar em qualquer tela
+
+<br>
+
+Pontos importantes:
+
+**Responsividade:**
+A responsividade é a capacidade de um site se adaptar a diferentes tamanhos de tela, garantindo uma boa experiência do usuário em dispositivos variados (celulares, tablets, desktops).
+
+**Ferramenta de Inspeção:**
+O navegador possui uma ferramenta chamada "Inspecionar Elemento" que permite visualizar e testar a responsividade da página. Você pode acessar essa ferramenta clicando com o botão direito na página e selecionando "Inspecionar".
+
+**Imagens Responsivas:**
+Ao trabalhar com imagens, evite usar tamanhos fixos em pixels. Prefira utilizar unidades relativas, como porcentagens, para garantir que as imagens se ajustem corretamente em diferentes telas.
+
+**Flexbox:**
+O Flexbox é uma técnica do CSS que permite organizar elementos em uma linha ou coluna, facilitando a criação de layouts responsivos.
+
+**Modo Claro e Modo Escuro:**
+O modo claro e o modo escuro (light/dark mode) são opções de tema que permitem ao usuário alternar entre uma interface clara e uma escura, melhorando a experiência visual.
+
+**Uso de Inteligência Artificial:**
+A inteligência artificial pode ser utilizada para ajudar a gerar código, como a implementação de responsividade e a criação de funcionalidades como o modo claro e escuro.
+
+**Importância da Semântica:**
+Utilizar tags HTML semânticas, como listas ordenadas e não ordenadas, melhora a estrutura do código e a acessibilidade da aplicação.
+
+<br>
+
+![responsividade_aula3](https://github.com/user-attachments/assets/18d997b1-6d76-4076-9952-9f6e53dbb9a2)
+
+<br>
+<br>
+
+![resultado_aula3](https://github.com/user-attachments/assets/820369c9-6656-4d40-94cd-5deca8f75f9a)
+
+<br>
+
+![modoescuro_3](https://github.com/user-attachments/assets/47d4f0b8-35b4-45ea-b943-70f63d8a6729)
+
+<br>
+
+Nesta aula, aprendemos sobre a importância da responsividade no desenvolvimento web! Discutimos como garantir que nossas aplicações se adaptem a diferentes tamanhos de tela, utilizando ferramentas de inspeção do navegador e técnicas como Flexbox. Também exploramos a criação de um modo claro e escuro, melhorando a experiência do usuário. A inteligência artificial foi uma aliada poderosa, ajudando a gerar código e implementar funcionalidades de forma eficiente. 
