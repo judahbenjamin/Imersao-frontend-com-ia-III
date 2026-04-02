@@ -107,3 +107,29 @@ Utilizar tags HTML semânticas, como listas ordenadas e não ordenadas, melhora 
 <br>
 
 Nesta aula, aprendemos sobre a importância da responsividade no desenvolvimento web! Discutimos como garantir que nossas aplicações se adaptem a diferentes tamanhos de tela, utilizando ferramentas de inspeção do navegador e técnicas como Flexbox. Também exploramos a criação de um modo claro e escuro, melhorando a experiência do usuário. A inteligência artificial foi uma aliada poderosa, ajudando a gerar código e implementar funcionalidades de forma eficiente. 
+
+# Aula 4 - Evoluindo a Estrutura e Estilização com IA
+
+Nesta etapa da Imersão Front-end com IA da Alura, o foco foi elevar a maturidade do código, aplicando boas práticas de mercado e explorando o potencial das ferramentas de inteligência artificial no fluxo de desenvolvimento.
+
+🛠️ O que foi implementado:
+
+- **Refatoração de Código**: Limpeza e organização das regras CSS para melhor legibilidade.
+
+- **CSS Variables**: Centralização de cores e fontes no :root para facilitar a manutenção e escalabilidade do projeto.
+
+- **Flexbox Layout**: Implementação do Menu Superior (Header), garantindo um alinhamento preciso e fluido.
+
+- **IA no Workflow**: Utilização de IA para sugestão de nomes de classes (semântica) e auxílio na lógica de posicionamento dos elementos.
+
+🚧 Status do Projeto
+O projeto inspirado na interface da Netflix ainda está em fase de desenvolvimento. Atualmente, a estrutura base e a estilização principal do cabeçalho estão concluídas. Próximos passos incluem o aprimoramento da responsividade e a listagem dinâmica de conteúdos.
+
+<br>
+
+![4](https://github.com/user-attachments/assets/adb62541-2eb0-4e7d-bea3-720f3b60831b)
+
+<br>
+
+![result4](https://github.com/user-attachments/assets/0e8496f9-09a9-48e6-b3b0-97ae229158df)
+
